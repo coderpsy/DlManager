@@ -1,2 +1,2 @@
 # DlManager
-girilen linkteki dosyayı download eder
+Girilen linkteki dosyayı download eder.
